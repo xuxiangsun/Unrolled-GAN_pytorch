@@ -17,10 +17,11 @@ The code about this can be found in g_loop() and d_loop() of main.py
 |0|300|600|900|1200|
 | :--------: | :--------: | :--------: | :--------: | :--------: |
 |<img src="imgs/0.png" width="350" />|<img src="imgs/300.png" width="350" />|<img src="imgs/600.png" width="350" />|<img src="imgs/900.png" width="350" />|<img src="imgs/1200.png" width="350" />
+|<img src="imgs/1500.png" width="350" />|<img src="imgs/2100.png" width="350" />|<img src="imgs/2400.png" width="350" />|<img src="imgs/2700.png" width="350" />|<img src="imgs/3000.png" width="350" />
 
 
 <center>
 <figure class="third">
-    <img src="imgs/0.png" width="350" /><img src="imgs/300.png" width="350" /><img src="imgs/600.png" width="350" /><img src="imgs/900.png" width="350" /><img src="imgs/1200.png" width="350" /><img src="imgs/1500.png" width="350" /><img src="imgs/2100.png" width="350" /><img src="imgs/2400.png" width="350" /><img src="imgs/2700.png" width="350" /><img src="imgs/3000.png" width="350" />
+<img src="imgs/1500.png" width="350" /><img src="imgs/2100.png" width="350" /><img src="imgs/2400.png" width="350" /><img src="imgs/2700.png" width="350" /><img src="imgs/3000.png" width="350" />
 </figure>
 <center>
