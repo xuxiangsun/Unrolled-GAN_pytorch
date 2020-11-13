@@ -14,15 +14,10 @@ This repo provide a simple implementation of Unrolled Generative Adversarial Net
 * Finally, what is important is that you need reload the state_dict of the discriminator you stored at first. 
 The code about this can be found in g_loop() and d_loop() of main.py
 # Qualitative Results
+
+<center>
 <figure>
-    <img src="imgs/0.png" width="100" />
-    <img src="imgs/300.png" width="100" />
-    <img src="imgs/600.png" width="100" />
-    <img src="imgs/900.png" width="100" />
-    <img src="imgs/1200.png" width="100" />
-    <img src="imgs/1500.png" width="100" />
-    <img src="imgs/2100.png" width="100" />
-    <img src="imgs/2400.png" width="100" />
-    <img src="imgs/2700.png" width="100" />
-    <img src="imgs/3000.png" width="100" />
+    <img src="imgs/0.png" width="100" /><img src="imgs/300.png" width="100" /><img src="imgs/600.png" width="100" /><img src="imgs/900.png" width="100" /><img src="imgs/1200.png" width="100" />
+    <img src="imgs/1500.png" width="100" /><img src="imgs/2100.png" width="100" /><img src="imgs/2400.png" width="100" /><img src="imgs/2700.png" width="100" /><img src="imgs/3000.png" width="100" />
 </figure>
+<center>
