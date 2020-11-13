@@ -23,3 +23,6 @@ The code about this can be found in g_loop() and d_loop() of main.py
 |<img src="imgs/1800.png" width="350" />|<img src="imgs/2100.png" width="350" />|<img src="imgs/2400.png" width="350" />|
 |2700|3000|None|
 |<img src="imgs/2700.png" width="350" />|<img src="imgs/3000.png" width="350" />||
+
+# Reference
+[unrolled-gans](https://github.com/andrewliao11/unrolled-gans)
