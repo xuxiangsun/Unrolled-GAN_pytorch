@@ -15,7 +15,7 @@ This repo provide a simple implementation of Unrolled Generative Adversarial Net
 The code about this can be found in g_loop() and d_loop() of main.py
 # Qualitative Results
 
-|:--------:|:--------:|:--------:|:--------:|:--------:|
+| :--------: | :--------: | :--------: | :--------: | :--------: |
 |<img src="imgs/0.png" width="350" />|<img src="imgs/300.png" width="350" />|<img src="imgs/600.png" width="350" />|<img src="imgs/900.png" width="350" />|<img src="imgs/1200.png" width="350" />
 
 
