@@ -1,5 +1,5 @@
 # Unrolled-GAN_pytorch
-An simple and unoffcial implementation of [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163) based on Pytorch deep learning framework.
+A simple and unoffcial implementation of [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163) based on Pytorch deep learning framework.
 
 # Requirements
 To run this code, you need to set the anaconda environment correctly. Please install the packages mentioned in requirements.txt firstly. Simply, for linux system, you should enter the path of this repo, and then, run
